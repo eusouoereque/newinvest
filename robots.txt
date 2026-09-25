@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newinvestconsorcio.com.br/sitemap.xml
